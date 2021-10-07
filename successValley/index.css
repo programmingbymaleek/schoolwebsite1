@@ -6,6 +6,9 @@
   text-align: center;
 
 }
+.carousel-item {
+  max-height: 32rem;
+}
 .heading{
   letter-spacing: .5em;
   font-size: 1.5em;
